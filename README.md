@@ -15,3 +15,5 @@ html_structure = {
   "link": "https://freestylo.ru/", 
   "structure": {"html": 1, "head": 1, "body": 1, "p": 10, "img": 2}
   }
+
+## Note:This app will not show full structure of website, for this i can use selenium and webdriver, i couldnt use because of lack of time
